@@ -1,0 +1,17 @@
+[
+  {
+    "id":"IN-001","name":"Lake North inlet","city":"Bengaluru","state":"Karnataka","lat":12.9716,"lon":77.5946,"waterBody":"Lake North","distanceToWaterBody":240,"dryDays":18,"paved":88,"traffic":79,"construction":73,"waste":58,"blockage":61,"coverage":"Community reported","waterBodyVerified":true,"source":"User-submitted demo seed","interventionStatus":"No active intervention"
+  },
+  {
+    "id":"IN-002","name":"Market drain 04","city":"Hyderabad","state":"Telangana","lat":17.4239,"lon":78.4738,"waterBody":"Urban lake outlet","distanceToWaterBody":180,"dryDays":14,"paved":91,"traffic":86,"construction":42,"waste":72,"blockage":68,"coverage":"Estimated","waterBodyVerified":false,"source":"Estimated demo record","interventionStatus":"No active intervention"
+  },
+  {
+    "id":"IN-003","name":"Campus outfall","city":"Delhi","state":"Delhi","lat":28.6139,"lon":77.209,"waterBody":"Najafgarh drainage corridor","distanceToWaterBody":620,"dryDays":9,"paved":68,"traffic":61,"construction":58,"waste":44,"blockage":35,"coverage":"Limited data","waterBodyVerified":false,"source":"Limited demo record","interventionStatus":"No active intervention"
+  },
+  {
+    "id":"IN-004","name":"East residential drain","city":"Chennai","state":"Tamil Nadu","lat":13.0827,"lon":80.2707,"waterBody":"Urban canal","distanceToWaterBody":310,"dryDays":12,"paved":77,"traffic":70,"construction":51,"waste":48,"blockage":42,"coverage":"Community reported","waterBodyVerified":true,"source":"Community demo record","interventionStatus":"No active intervention"
+  },
+  {
+    "id":"IN-005","name":"Industrial edge drain","city":"Pune","state":"Maharashtra","lat":18.5204,"lon":73.8567,"waterBody":"Mula-Mutha corridor","distanceToWaterBody":410,"dryDays":16,"paved":84,"traffic":74,"construction":66,"waste":63,"blockage":55,"coverage":"Estimated","waterBodyVerified":false,"source":"Estimated demo record","interventionStatus":"No active intervention"
+  }
+]
